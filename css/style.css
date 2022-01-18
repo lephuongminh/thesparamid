@@ -1,0 +1,25 @@
+.box{
+    height: 200px;
+}
+.box-lon{
+    height: 400px;
+}
+
+.box-nho{
+    height: 50px;
+}
+.text-center{
+    text-align: center;
+    padding-bottom: 2%;
+    color: black;
+}
+body {
+    background-image: url("../picture/bg.jpg");
+    background-color: #cccccc;
+  }
+ .size{
+    font-size: 18px;
+  }
+  .size2{
+    font-size: 22px;
+  }
